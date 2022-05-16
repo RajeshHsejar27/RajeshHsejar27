@@ -79,7 +79,8 @@
                             Room is the epitome of elegance for a sophisticated celebration.When you dine in the 
                             UrbanXchange Private Dining Room, you can choose from our award winning Saké Restaurant
                             & Bar menu served banquet style, or an elegant menu from The Cut Bar & Grill.
-                            </p>
+                            </p><br>
+                            <h1><a href="a.html"><font color="black" align="center"> View GALLERY </a></h1><br>
                             <hr class="customline3"><!--css modified horizontal line-->
                             <button type="button" class="btn btn-default btn-md" data-toggle="modal" data-target="#urbanxchange"><!--button for modal trigger-->
                             More Details  <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span><!--glyphicon--> 
@@ -152,6 +153,7 @@
                             Enjoy champagne and oysters after work and cocktails into the early hours, or indulge in
                             a magnificent French meal in the Brasserie.
                             </p>
+                            <h1><a href="b.html"><font color="black" align="center"> View GALLERY </a></h1><br>
                             <hr class="customline3"><!--css modified horizontal line--> 
                             <button type="button" class="btn btn-default btn-md" data-toggle="modal" data-target="#ananasbar"><!--button for modal trigger-->
                             More Details  <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span><!--glyphicon--> 
@@ -220,6 +222,7 @@
                                 And our landmark venue, The Argyle, has a unique, rich history all of its own. The sandstone walls that house
                                 The Argyle had seen some interesting sights well before we all hit the dance floor.</p>
                             <hr class="customline3">   
+                            <h1><a href="c.html"><font color="black" align="center"> View GALLERY </a></h1><br>
                             <button type="button" class="btn btn-default btn-md" data-toggle = "modal" data-target = "#argyle">
                             More Details  <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> 
                             </button>
@@ -289,6 +292,7 @@
                                 The state-of-the-art venue seats over 900 people and is located opposite the Melbourne
                                 Convention & Exhibition Centre, overlooking Melbourne’s South Wharf Promenade.</p>
                             <hr class="customline3">   
+                            <h1><a href="d.html"><font color="black" align="center"> View GALLERY </a></h1><br>
                             <button type="button" class="btn btn-default btn-md" data-toggle="modal" data-target="#munich">
                             More Details  <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span> 
                             </button>
