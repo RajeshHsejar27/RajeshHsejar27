@@ -1,0 +1,40 @@
+#title {
+  background-color: rgb(255, 166, 200);
+}
+#body {
+  background-color: bisque;
+}
+#end {
+  background-color: rgba(39, 101, 202, 0.616);
+}
+h1 {
+  font-family: "Montserrat";
+}
+
+.contain {
+  padding: 3% 15%;
+}
+body {
+  font-family: "Montserrat";
+}
+.navbar-brand {
+  font-size: 45px !important;
+  font-style: italic;
+  font-family: "Lobster", cursive;
+}
+.nav-item {
+  padding: 0 18px;
+  font-weight: bold;
+  background-color: rgba(39, 101, 202, 0.616);
+}
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+.title-image2 {
+  width: 60%;
+  transform: rotate(-25deg);
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+}
