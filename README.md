@@ -7,5 +7,7 @@ Its just the first version without any javascript elements.Made for fun.
 This is my sample html website i created for fun.
 [Click here to go to my website](https://rajeshhsejar27.github.io/RajeshHsejar27/)
 
-This is an newsletter signup of my website.
+This is a newsletter signup page that records the details and send it to my account.
 [Click here to go to my website](https://murmuring-river-96487.herokuapp.com/)
+
+
