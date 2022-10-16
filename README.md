@@ -18,3 +18,6 @@ This is a webpage that adds two numbers and displays result.
 
 This is a webpage which give LIVE WEATHER condition of the user input city!
 [Click here to go to my website](https://damp-woodland-10964.herokuapp.com/)
+
+This is my blog which is experimental. Checkout more about it in About tab.
+[Click here to go to my website](https://mysterious-stream-57101.herokuapp.com/)
