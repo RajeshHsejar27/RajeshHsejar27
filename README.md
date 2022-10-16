@@ -4,5 +4,8 @@ This below link consists of my Profile page in which I'm currently working out m
 
 Its just the first version without any javascript elements.Made for fun.
 
-This is my website.
+This is my sample html website i created for fun.
 [Click here to go to my website](https://rajeshhsejar27.github.io/RajeshHsejar27/)
+
+This is an newsletter signup of my website.
+[Click here to go to my website](https://murmuring-river-96487.herokuapp.com/)
