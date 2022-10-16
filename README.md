@@ -10,4 +10,5 @@ This is my sample html website i created for fun.
 This is a newsletter signup page that records the details and send it to my account.
 [Click here to go to my website](https://murmuring-river-96487.herokuapp.com/)
 
-
+This is a live Day and Date webpage.
+[Click here to go to my website](https://hidden-hamlet-14172.herokuapp.com/)
