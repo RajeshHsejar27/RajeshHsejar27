@@ -21,3 +21,4 @@ This is a webpage which give LIVE WEATHER condition of the user input city!
 
 This is my blog which is experimental. Checkout more about it in About tab.
 [Click here to go to my website](https://mysterious-stream-57101.herokuapp.com/)
+[Note: Blog is currently down since im adding new features on the go!]
