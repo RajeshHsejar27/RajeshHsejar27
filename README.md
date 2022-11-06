@@ -13,7 +13,7 @@ This is a newsletter signup page that records the details and send it to my acco
 This is a live Day and Date webpage.
 [Click here to go to my website](https://immense-ravine-49602.herokuapp.com/)
 
-This is a webpage that adds two numbers and displays result.
+This is a webpage that performs DMAS operations between two input numbers and displays result.
 [Click here to go to my website](https://shielded-depths-38197.herokuapp.com/)
 
 This is a webpage which give LIVE WEATHER condition of the user input city!
