@@ -8,6 +8,8 @@ Visit my State-of-the-art Portfolio aka "Arena"!
 
 The below links consists of my Projects in which I'm currently working out my full stack development skill as I'm learning.
 
+NOTE: Temporarily the below sites may not be available as I'm rehosting them using Netlify.
+
 Its just the first version without any javascript elements.Made for fun.
 This is my sample html website i created for fun.
 [Click here to go to my website](https://rajeshhsejar27.github.io/RajeshHsejar27/)
