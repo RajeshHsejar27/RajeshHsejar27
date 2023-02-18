@@ -24,6 +24,7 @@
 
 
 The below are the projects which I have tried and I have the code for them in my repository.
+I kept the names of the repositories to my like and the rest all maintained to be professional.
 I've initially hosted them in Heroku but since they removed free dynos as of Nov2022, the sites stopped working.
 Although you can use the codes from the repository which perfectly works in local host and you have to make some modifications to them inorder to host them in sites and it is different for each website hosting sites.I tried firebase but it had some issue in hosting nodejs apps.Anyway that can be solved but I dont have time to go through that since I made myself busy with other projects.That's why i removed the deployed sites and their links from this.
 I have attached a readme file and screenshots of the working demo for each project.
@@ -41,3 +42,11 @@ I did a webpage that performs DMAS operations between two input numbers and disp
 I did a webpage which gives LIVE WEATHER condition of the user input city!
 
 I did a blog which shows the posts which can be composed and displayed in the home page. Built with Mongodb functionality for the posts to be saved and viewed later.
+
+I did a keylogger project which is used to record the keystrokes of the target and send it to a desired mail.
+
+I did a signal triggered road blocker system using ArduinoMega and various components.
+
+I did a covid classification deep learning project using Resnet50 architecture.
+
+I did some object detection projects using opencv and yolo.
