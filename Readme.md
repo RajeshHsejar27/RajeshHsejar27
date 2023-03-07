@@ -33,7 +33,7 @@ I have attached a readme file and screenshots of the working demo for each proje
 This is my sample html website i created for fun. Hosted using Github.
 [Click here to go to my website](https://rajeshhsejar27.github.io/RajeshHsejar27/)
 
-I did a newsletter signup page that records the details and send it to my account.
+I did a newsletter signup page which can be used to send special mail letters for the subscribers.
 
 I did a live Day and Date webpage.
 
@@ -50,3 +50,8 @@ I did a signal triggered road blocker system using ArduinoMega and various compo
 I did a covid classification deep learning project using Resnet50 architecture.
 
 I did some object detection projects using opencv and yolo.
+
+I did a goal keeper application ( not launched android app, still learning ) using react native.
+
+Now currently I'm working on a e-commerce website application using Mern stack.
+
