@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshhsejar27&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshhsejar27" /> </p>
 
-- 🔭 I’m currently working on **Payment integration in web projects**
+- 🔭 I’m currently working on **Ecommerce application using MERN stack**
 
 - 🌱 I’m currently learning **Advanced web development, cyber security**
 
@@ -52,6 +52,4 @@ I did a covid classification deep learning project using Resnet50 architecture.
 I did some object detection projects using opencv and yolo.
 
 I did a goal keeper application ( not launched android app, still learning ) using react native.
-
-Now currently I'm working on a e-commerce website application using Mern stack.
 
