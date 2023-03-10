@@ -35,21 +35,29 @@ This is my sample html website i created for fun. Hosted using Github.
 
 I did a newsletter signup page which can be used to send special mail letters for the subscribers.
 [ VISIT !!! ](https://hsejar-mailtime.onrender.com)
+<br/>
 I did a live Day and Date webpage.
 [ VISIT !!! ](https://hsejar-dayandate.onrender.com)
+<br/>
 I did a webpage that performs DMAS operations between two input numbers and displays result.
 [ VISIT !!! ](https://hsejar-calc.onrender.com)
+<br/>
 I did a webpage which gives LIVE WEATHER condition of the user input city!
 [ VISIT !!! ](https://hsejar-weather.onrender.com)
+<br/>
 I did a blog which shows the posts which can be composed and displayed in the home page. Built with Mongodb functionality for the posts to be saved and viewed later.
 [ VISIT !!! ](https://hsejar-blog.onrender.com)
+<br/>
+I did a counter app made with react state concepts.
+[ VISIT !!! ](https://hsejar-counter.onrender.com)
+<br/>
 I did a keylogger project which is used to record the keystrokes of the target and send it to a desired mail.
-
+<br/>
 I did a signal triggered road blocker system using ArduinoMega and various components.
-
+<br/>
 I did a covid classification deep learning project using Resnet50 architecture.
-
+<br/>
 I did some object detection projects using opencv and yolo.
-
+<br/>
 I did a goal keeper application ( not launched android app, still learning ) using react native.
-
+<br/>
