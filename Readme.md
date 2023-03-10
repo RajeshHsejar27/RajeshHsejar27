@@ -25,24 +25,24 @@
 
 The below are the projects which I have tried and I have the code for them in my repository.
 I kept the names of the repositories to my like and the rest all maintained to be professional.
-I've initially hosted them in Heroku but since they removed free dynos as of Nov2022, the sites stopped working.
-Although you can use the codes from the repository which perfectly works in local host and you have to make some modifications to them inorder to host them in sites and it is different for each website hosting sites.I tried firebase but it had some issue in hosting nodejs apps.Anyway that can be solved but I dont have time to go through that since I made myself busy with other projects.That's why i removed the deployed sites and their links from this.
+I've initially hosted them in Heroku but since they removed free dynos as of Nov2022, I've started to deploy them in Firebase and Render.
+You can use the codes from the repository which perfectly works in local host and you have to make some modifications to them inorder to host them in sites and it is different for each website hosting sites.I tried firebase but it had some issue in hosting nodejs apps.Anyway that can be solved but I dont have time to go through that since I made myself busy with other projects.That's why i deployed nodejs apps in Render.
 I have attached a readme file and screenshots of the working demo for each project.
 
 
 This is my sample html website i created for fun. Hosted using Github.
-[Click here to go to my website](https://rajeshhsejar27.github.io/RajeshHsejar27/)
+[ VISIT !!! ](https://rajeshhsejar27.github.io/RajeshHsejar27/)
 
 I did a newsletter signup page which can be used to send special mail letters for the subscribers.
-
+[ VISIT !!! ](https://hsejar-mailtime.onrender.com)
 I did a live Day and Date webpage.
-
+[ VISIT !!! ](https://hsejar-dayandate.onrender.com)
 I did a webpage that performs DMAS operations between two input numbers and displays result.
-
+[ VISIT !!! ](https://hsejar-calc.onrender.com)
 I did a webpage which gives LIVE WEATHER condition of the user input city!
-
+[ VISIT !!! ](https://hsejar-weather.onrender.com)
 I did a blog which shows the posts which can be composed and displayed in the home page. Built with Mongodb functionality for the posts to be saved and viewed later.
-
+[ VISIT !!! ](https://hsejar-blog.onrender.com)
 I did a keylogger project which is used to record the keystrokes of the target and send it to a desired mail.
 
 I did a signal triggered road blocker system using ArduinoMega and various components.
