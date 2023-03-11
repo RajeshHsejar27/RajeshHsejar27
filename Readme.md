@@ -30,9 +30,6 @@ You can use the codes from the repository which perfectly works in local host an
 I have attached a readme file and screenshots of the working demo for each project.
 
 
-This is my portfolio. Hosted using Github.
-[ VISIT !!! ](https://rajeshhsejar27.github.io/RajeshHsejar27/)
-
 I did a newsletter signup page which can be used to send special mail letters for the subscribers.
 [ VISIT !!! ](https://hsejar-mailtime.onrender.com)
 <br/>
