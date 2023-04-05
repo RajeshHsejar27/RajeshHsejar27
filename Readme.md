@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshhsejar27&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshhsejar27" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce application using MERN stack**
+- 🔭 I’m currently working on **My masterpiece novel and some songs**
 
 - 🌱 I’m currently learning **Advanced web development, cyber security**
 
