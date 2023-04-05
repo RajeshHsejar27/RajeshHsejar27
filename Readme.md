@@ -56,5 +56,7 @@ I did a covid classification deep learning project using Resnet50 architecture.
 <br/>
 I did some object detection projects using opencv and yolo.
 <br/>
-I did a goal keeper application ( not launched android app, still learning ) using react native.
+I did a ecommerce web application using MERN stack.
+[ ENTER !!! ](https://the-mayhem-cart.onrender.com)
 <br/>
+
