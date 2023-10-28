@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshhsejar27&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshhsejar27" /> </p>
 
-- 🔭 I’m currently working on **My masterpiece novel and some songs**
+- 🔭 I’m currently working on **My Bookstore application and writing novels**
 
-- 🌱 I’m currently learning **Advanced web development, cyber security**
+- 🌱 I’m currently learning **Advanced web development, Python automation**
 
 - 👯 I’m looking to collaborate on **Any new innovative or creative technology stuff**
 
@@ -59,4 +59,8 @@ I did some object detection projects using opencv and yolo.
 I did a ecommerce web application using MERN stack.
 [ ENTER !!! ](https://the-mayhem-cart.onrender.com)
 <br/>
+<br/>
+Note: I did few more projects and did more stuff which I still have to edit. To know them if you are curious, mail me.
+
+
 
