@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshhsejar27&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshhsejar27" /> </p>
 
-- 🔭 I’m currently working on **My Bookstore application and writing novels**
+- 🔭 I’m currently working on **Working on CyberSecurity, GenAI & FullStack Projects and Upskilling**
 
-- 🌱 I’m currently learning **Advanced web development, Python automation**
+- 🌱 I’m currently learning **FullStack using MERN with DevOps, GenAI**
 
 - 👯 I’m looking to collaborate on **Any new innovative or creative technology stuff**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nrh27magnum@gmail.com**
 
-- ⚡ Fan of **Chandler Bing!**
+- ⚡ Fan of **Chandler Bing! && Geralt of Rivia**
 
 
 
