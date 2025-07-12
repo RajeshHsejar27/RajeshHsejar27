@@ -17,5 +17,5 @@
 
 - ⚡ Fan of **Chandler Bing! && Geralt of Rivia**
 
-[In process of adding the localhost projects to Github and deployment] Date today: July 10, 2025
+[In process of adding the localhost projects to Github and deployment; Empty repositories in my Github are a under-construction or dropped ones.] Date today: July 10, 2025
 
