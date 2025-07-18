@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any new innovative or creative technology stuff**
 
-- 👨‍💻 All of my projects are available at the project tab on [https://hsejarism27.web.app/](https://hsejarism27.web.app/)
+- 👨‍💻 All of my projects are available at the project tab on [https://rajeshhsejar.netlify.app](https://rajeshhsejar.netlify.app)
 
 - 💬 Ask me about **Stories, web development ideas, games, movies & series, doubts or issues in tech related stuff**
 
