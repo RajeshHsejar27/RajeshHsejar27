@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Working on CyberSecurity, GenAI & FullStack Projects and Upskilling various domains that I got my interest on**
 
-- 🌱 I’m currently learning **FullStack using MERN with DevOps, GenAI**
+- 🌱 I’m currently learning **Ultra optimization & new system architecture by doing self research**
 
 - 👯 I’m looking to collaborate on **Any new innovative or creative technology stuff**
 
-- 👨‍💻 All of my projects are available at the project tab on [https://rajeshhsejar.netlify.app](https://rajeshhsejar.netlify.app)
+- 👨‍💻 All of my projects are available at the project tab (Few are being pending commit/ on recovery mode -  but will be updated soon) on [https://rajeshhsejar.netlify.app](https://rajeshhsejar.netlify.app)
 
 - 💬 Ask me about **Stories, web development ideas, games, movies & series, doubts or issues in tech related stuff**
 
@@ -17,5 +17,5 @@
 
 - ⚡ Fan of **Chandler Bing! && Geralt of Rivia**
 
-[In process of adding the localhost projects to Github and deployment; Empty repositories in my Github are a under-construction or dropped ones.] Date today: July 10, 2025
+[In process of adding the localhost projects to Github and deployment; Empty repositories in my Github are a under-construction or dropped ones.] Date today: Jan 20, 2026
 
