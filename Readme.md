@@ -27,16 +27,14 @@
 
 
 
-## 🧩 LeetCode & GitHub Stats
+## 🧩 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/nrh27magnum?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshhsejar27&theme=tokyonight" />
-</p>
+
 
 ---
 
