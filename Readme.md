@@ -15,30 +15,17 @@
 
 - 🔭 Currently working on **Software, CyberSecurity, GenAI & Full‑Stack Engineering**
 - 🌱 Learning **Ultra‑optimization & new system architectures**
-- 👯 Open to collaborate on **innovative tech projects**
+- 👯 Open to collaborate on **Innovative tech projects with useful use cases**
 - 👨‍💻 Portfolio: **https://rajeshhsejar.netlify.app**
-- 💬 Ask me about **stories, web dev ideas, games, movies, tech doubts**
+- 💬 Ask me about **stories, web dev ideas, games, movies, philosophy**
 - 📫 Reach me at **nrh27magnum@gmail.com**
 - ⚡ Fan of **Chandler Bing & Geralt of Rivia**
 
-> _Note: Localhost projects are being added to GitHub. Some repos are under construction or recovery._
+> _Note: Localhost projects are being added to GitHub. Some repos are under construction or recovery. Today date: 01-Feb-2026_
 
 ---
 
-## 🧠 LeetCode Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Active%20Daily-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-blue?style=for-the-badge" />
-</p>
-
-### 📈 Topic Progress
-- Dynamic Programming: ![DP](https://progress-bar.dev/70/?title=DP)
-- Graphs: ![Graphs](https://progress-bar.dev/55/?title=Graphs)
-- Arrays: ![Arrays](https://progress-bar.dev/90/?title=Arrays)
-- Concurrency: ![Concurrency](https://progress-bar.dev/40/?title=Concurrency)
-
----
 
 ## 🧩 LeetCode & GitHub Stats
 
@@ -46,9 +33,6 @@
   <img src="https://leetcard.jacoblin.cool/nrh27magnum?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshhsejar27&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshhsejar27&theme=tokyonight" />
@@ -64,15 +48,6 @@
 
 ---
 
-## 🎬 Code Animations
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajeshhsejar27/rajeshhsejar27/main/assets/code-animation.gif" width="600" />
-</p>
-
-> _Tip: Add your own GIFs from algorithm visualizations, Carbon, or screen recordings._
-
----
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +65,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/rajesh-n-b37238237">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="https://rajeshhsejar.netlify.app">
@@ -100,4 +75,4 @@
 
 ---
 
-<p align="center">✨ Thanks for visiting! Keep building, keep learning, keep evolving ✨</p>
+<p align="center">✨ Thanks for visiting! Have a Niceeee year!✨</p>
