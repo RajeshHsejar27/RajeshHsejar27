@@ -1,5 +1,5 @@
 <h1 align="center">Heya! 👋 I'm Rajesh N</h1>
-<h3 align="center">Ardent Technology Learner • Systems & Cybersecurity Engineer • Full‑Stack & Software Developer • GenAI Explorer</h3>
+<h3 align="center">Ardent Technology Learner • Systems & Cybersecurity Engineer • Full‑Stack & Software Developer • Forward deployed Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Systems+That+Scale;Solving+LeetCode+Daily;Cybersecurity+%7C+GenAI+%7C+FullStack;Always+Learning+New+Architectures" />
