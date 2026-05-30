@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Software, CyberSecurity, GenAI & Full‑Stack Engineering**
-- 🌱 Learning **Ultra‑optimization & new system architectures**
+- 🔭 Currently working on **Forward deployed Software Engineering**
+- 🌱 Learning **Ultra‑optimization & new system architectures & Agentic AI Workflows**
 - 👯 Open to collaborate on **Innovative tech projects with useful use cases**
 - 👨‍💻 Portfolio: **https://rajeshhsejar.netlify.app**
 - 💬 Ask me about **stories, web dev ideas, games, movies, philosophy**
